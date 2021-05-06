@@ -1,6 +1,6 @@
 Hey, I'm Geovanny 👋
 
-I'm a Backend DEveloper from La Paz (Robles)/Colombia and working as a Developer FullStack.
+I'm a Backend Developer from La Paz (Robles)/Colombia and working as a Developer FullStack.
 
 In my spare time I like to code in various languages including Java, Scala, Kotlin and a few other. I'm interested in both backend and frontend having practiced them extensively.
 
