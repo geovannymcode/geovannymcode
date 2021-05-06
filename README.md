@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey, I'm Geovanny 👋
 
-<!--
-**Geovanny0401/Geovanny0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend DEveloper from La Paz (Robles)/Colombia and working as a Developer FullStack.
 
-Here are some ideas to get you started:
+In my spare time I like to code in various languages including Java, Scala, Kotlin and a few other. I'm interested in both backend and frontend having practiced them extensively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From APIs to backend, through cloud and databases, preferrably using a functional programming language.
+
+I wrote "Building Modern Web Applications With Jakarta EE, NoSQL Databases and Microservices" (bpbonline, 2020)".
+
+Beside coding, I'm passionate about football, travels, movies, music and read technology book.
+
+Regards!
