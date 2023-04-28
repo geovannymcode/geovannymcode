@@ -3,7 +3,7 @@
   <a href="https://twitter.com/geovanny0401/">Twitter</a> •
   <a href="https://www.linkedin.com/in/gmendozag/">Linkedin</a> •
   <a href="https://speakerdeck.com/geovanny0401">Speaker Deck</a> •
-  <a href="https://www.youtube.com/geovannymendozagonzalez9119">Youtube</a>
+  <a href="https://www.youtube.com/@geovannymendozagonzalez9119">Youtube</a>
 </p>
 
 ---
