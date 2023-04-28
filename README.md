@@ -1,12 +1,24 @@
-Hi, I'm Geovanny 👋
+<h3 align="center"> Hi, I'm Geovanny 👋 </h3>
+<p align="center">
+  <a href="https://twitter.com/geovanny0401/">Twitter</a> •
+  <a href="https://www.linkedin.com/in/gmendozag/">Linkedin</a> •
+  <a href="https://speakerdeck.com/geovanny0401">Speaker Deck</a> •
+  <a href="https://www.youtube.com/geovannymendozagonzalez9119">Youtube</a>
+</p>
 
-Senior Backend Developer with solid knowledge and experience in Java and Kotlin.
+---
 
-In my free time I like to code in Java and Kotlin language. In my later years of my profession. I have worked mainly in FullStack positions with a strong focus on Backend. 
-
-From APIs to backend, to cloud and databases, based on coding standards and best practices. especially using software design patterns.
-
-Besides programming, I am passionate about soccer, travel, movies, music and reading technology books.
-
-Regards!!
-
+```kotlin
+object Geovanny {
+ val name = "Geovanny Mendoza"
+ 
+ val primarySkillset = "Back-End" 
+ val languages = listOf("Kotlin", "Java")
+ val learning = listOf("React","Android")
+ val contact = "@geovanny0401".apply {
+   twitter = this
+   instagram = this
+ }
+ val website = "https://www.geovacode.com"
+}
+```
