@@ -19,6 +19,6 @@ object Geovanny {
    twitter = this
    instagram = this
  }
- val website = "https://www.geovacode.com"
+ val website = "https://www.geovannycode.com"
 }
 ```
