@@ -14,7 +14,7 @@ object Geovanny {
  
  val primarySkillset = "Back-End" 
  val languages = listOf("Kotlin", "Java")
- val learning = listOf("React","Android")
+ val learning = listOf("Go")
  val contact = "@geovanny0401".apply {
    twitter = this
    instagram = this
