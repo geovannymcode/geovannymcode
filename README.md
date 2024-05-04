@@ -18,6 +18,7 @@ object Geovanny {
  val contact = "@geovanny0401".apply {
    twitter = this
    instagram = this
+   dev = this
  }
  val website = "https://www.geovannycode.com"
 }
