@@ -19,6 +19,7 @@ object Geovanny {
  val learning = "Android"
  val contact = "@geovannycode".apply {
    twitter = this
+   linkedin = this
    instagram = this
    dev = this
    bsky = this  
