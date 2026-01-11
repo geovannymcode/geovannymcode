@@ -21,11 +21,46 @@
 **Languages and Tools:**  
 
 <a href="https://github.com/geovannymcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannymcode&theme=light&count_private=true&layout=compact" alt="Geovanny's most used languages" />
+  <img
+    align="center"
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+  />
+  <img
+    align="center"
+    src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"
+  />
+  <img
+    align="center"
+    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+  />
+  <img
+    align="center"
+    src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"
+  />
+  <img
+    align="center"
+    src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"
+  />
 </a>
+
+
+---
+
 <a href="https://github.com/geovannymcode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=geovannymcode&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Geovanny's GitHub stats"/>
+  <img
+    align="center"
+    src="https://img.shields.io/github/followers/geovannymcode?style=for-the-badge&logo=github&label=Followers"
+  />
+  <img
+    align="center"
+    src="https://img.shields.io/github/stars/geovannymcode?style=for-the-badge&logo=github&label=Stars"
+  />
+  <img
+  align="center"
+  src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/geovannymcode&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github"
+/>
 </a>
+
 
 ---
 
