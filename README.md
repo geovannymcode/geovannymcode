@@ -12,7 +12,7 @@
 
 - 💻 Building software professionally since 2010
 - 💬 Experienced in Java, Kotlin, Spring Boot, Docker, PostgreSQL, and Vaadin
-- 🌱 Currently learning Android development and exploring Go
+- 🌱 Currently preparing for the Spring Framework Professional Certification.
 - 📢 Sharing knowledge through talks, workshops, and articles on [geovannycode.com](https://geovannycode.com)
 
 [![Twitter follow @geovannycode](https://img.shields.io/twitter/follow/geovannycode?style=social)](https://twitter.com/geovannycode) &nbsp;
