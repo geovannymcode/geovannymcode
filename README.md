@@ -76,8 +76,8 @@ A bookstore and e-commerce API built using a microservices and hexagonal archite
 ---
 
 ### [🎂 CAKEFACTORY](https://github.com/geovannymcode/cakefactory)
-**Tech Stack:** Java, Spring Boot, Thymeleaf, MySQL, Docker, HTML, CSS  
-An e-commerce platform for a bakery, allowing users to browse, order, and pay for various bakery products online. Integrated functionalities for user authentication, product management, and order tracking.
+**Tech Stack:** Java 25, Spring Boot 4, Vaadin Flow, PostgreSQL, Docker, Spring Security, OAuth2
+Una plataforma de e-commerce para una pastelería artesanal, rediseñada con Arquitectura Hexagonal. Permite a los usuarios navegar por un catálogo interactivo, gestionar un carrito de compras persistente y realizar pagos mediante PayPal o Stripe (Pattern Strategy). Incluye autenticación dual (local y social) y una interfaz moderna y reactiva desarrollada íntegramente con Vaadin Flow.
 
 ---
 
